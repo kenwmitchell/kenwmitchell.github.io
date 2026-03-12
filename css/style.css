@@ -199,6 +199,16 @@ li {
 	align-items: start;
 }
 
+.headshot {
+	width: 100%;
+	max-width: 300px;
+	height: auto;
+	border-radius: 8px;
+	margin-bottom: var(--spacing-lg);
+	display: block;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
 .about-text h3 {
 	margin-bottom: var(--spacing-lg);
 }
